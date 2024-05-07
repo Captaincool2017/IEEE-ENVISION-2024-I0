@@ -1,5 +1,5 @@
-# Walking Robot Examples
-Copyright 2017-2019 The MathWorks, Inc.
+# IEEE ENVISION PROJECT: BIPEDAL ROBOT SIMULATION USING MATLAB
+The following project uses the Matlab toolkits to configure and simulate the working of a bipedal robot
 
 ## Introduction
 This repository contains example files for the following [MATLAB and Simulink Robotics Arena](https://www.mathworks.com/academia/student-competitions/roboticsarena.html) videos on walking robots.
