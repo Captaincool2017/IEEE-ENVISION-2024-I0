@@ -43,8 +43,3 @@ Each of these folders has its own separate README with more information.
 
 ---
 
-## Multiphysics Library
-For convenience, a local copy of the Simscape Multibody Multiphysics Library 
-has been included with this submission. If you would like to install the 
-latest version of these libraries, you can find them from the Add-On Explorer, 
-or on the File Exchange at https://www.mathworks.com/matlabcentral/fileexchange/37636-simscape-multibody-multiphysics-library
