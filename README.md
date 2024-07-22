@@ -14,7 +14,6 @@ You can also learn more about this example from our blog posts on
 [modeling and simulation](https://blogs.mathworks.com/racing-lounge/2017/10/11/walking-robot-modeling-and-simulation) 
 and [control](https://blogs.mathworks.com/racing-lounge/2019/04/24/walking-robot-control/).
 
-For any questions, email us at roboticsarena@mathworks.com.
 
 ---
 
